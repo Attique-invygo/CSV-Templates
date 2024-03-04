@@ -1,0 +1,14 @@
+,,,,OPTIONAL,OPTIONAL,OPTIONAL,,,OPTIONAL,,,,,,
+Make,Model,Trim,Year,VIN,No of cars,Plate,Color,Mileage,"Contract
+condition",Showroom,"Delivery 
+start date",Advance booking days limit,BookingType,"Keep in mind 
+contract end date","Keep in mind 
+THAT PRICING COLUMNS CAN BE ADDED HERE AS WELL"
+Kia,Pegas,MID,2021,ML0ABK2020039457,10,M 6726,Silver,100,New,Jeddah - Saqer Qouraish,23/01/2023,7,Delivery,,
+Kia,Pegas,MID,2021,ML0ABK2020039458,10,M 6726,Black,100,New,Jeddah - Saqer Qouraish,23/01/2023,10,Pickup,,
+Kia,Pegas,MID,2020,ML0ABK2020039459,,M 6726,White,29832,Used,Makkah - Al Diyafah,23/03/2023,3,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,^^ DEV NEEDED,,,,,
+,,COMMITTED,"VIN, Plate,
+Condition",,,,,,,,,,,,
+,,NON_COMMITTED,No of cars,,,,,,,,,,,,

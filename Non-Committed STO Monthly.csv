@@ -1,0 +1,14 @@
+Make,Model,Trim,Year,"Contract
+condition","No of 
+Cars",Dealer full insurance,,Invygo full insurance margin,"Dealer secondary
+driver",,"Invygo secondary
+driver margin",Mileage,Extra mileage,"Dealer exceeded
+mileage charge/km",,"Invygo exceeded
+mileage margin/km","Dealer excess
+liability",,"Invygo excess
+liability margin",Contract period,,,Dealer daily base price,Dealer base reducer percent,Dealer base reducer absolute,Invygo daily base price,Invygo daily base benefit,Invygo daily base reducer,,,,,,,Starter fee,Dealer balloon,Invygo balloon price
+Kia,Pegas,STD,2023,New,25,120,,120%,0,,150%,5000,9000,0.75,,10%,3150,,40%,"36,48,60",,,35,-10%,35,45,110%,-10%,,,,,,,3500,23400,23400
+Kia,Pegas,STD,2022,New,25,120,,120%,150,,150%,5000,9000,0.75,,10%,2150,,40%,36,,,35,-10%,35,45,110%,-10%,,,,,,,3000,18000,18000
+Kia,Pegas,MID,2021,New,25,120,,120%,150,,150%,5000,9000,0.75,,10%,3150,,40%,24,,,35,-10%,35,45,110%,-10%,,,,,,,2800,14400,14400
+Kia,Pegas,MID,2020,Used,25,120,,120%,150,,150%,5000,9000,0.75,,10%,2150,,40%,24,,,35,-10%,35,45,110%,-10%,,,,,,,2000,10800,10800
+Mg,5,STD,2022,New,50,120,,120%,150,,150%,5000,9000,0.65,,10%,2150,,40%,48,,,35,-10%,35,45,110%,-10%,,,,,,,3000,21600,21600
